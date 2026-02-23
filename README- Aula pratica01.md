@@ -39,7 +39,7 @@ Deixa um código mais fácil de ser testado, mais organizado...
 
 ## Tabela Comparativa
 ---------------------------------------------------------------------------------------------------
-|  Frameworks   |         Caracteristicas       |        Pros        |          Contras           |
+|  Frameworks   |         Caracteristicas       |        Prós        |          Contras           |
 |---------------|-------------------------------|--------------------|----------------------------|
 |  Spring Boot  | IoC integrado, MVC, sistema   | Robusto, alta      | Difícil para pessoas       |
 |               | grande.                       | complexidade.      | novas, complexo.           |
