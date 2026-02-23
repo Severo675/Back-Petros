@@ -41,12 +41,12 @@ Deixa um código mais fácil de ser testado, mais organizado...
 ---------------------------------------------------------------------------------------------------
 |  Frameworks   |         Caracteristicas       |        Pros        |          Contras           |
 |---------------|-------------------------------|--------------------|----------------------------|
-|  Spring Boot  | IoC integrado, MVC, sistema   | Robusto, alto      | Difícil para pessoas       |
+|  Spring Boot  | IoC integrado, MVC, sistema   | Robusto, alta      | Difícil para pessoas       |
 |               | grande.                       | complexidade.      | novas, complexo.           |
 |---------------|-------------------------------|--------------------|----------------------------|
 |  Laravel      | IoC container, MVC, foco em   | Fácil em entender, | Não recomendado para       |
 |               | aplicações web.               | produtivo          | programas grandes.         |
 |---------------|----------------------------------------------------|----------------------------|
-|  ASP.NET Core | DI nativos, MVC, usado APIs   | Performace alto,   | Exige conhecimento em      |
+|  ASP.NET Core | DI nativos, MVC, usado APIs   | Performace alta,   | Exige conhecimento em      |
 |               | e aplicações web modernas.    | seguro.            | c#, dficíl para iniciantes.|
 ---------------------------------------------------------------------------------------------------
