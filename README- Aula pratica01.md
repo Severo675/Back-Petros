@@ -16,6 +16,7 @@ Deixa um código mais fácil de ser testado, mais organizado...
 - Alta complexidade
 - Usado em sistemas corporativos
 - Responsável pela criação e gerenciamento de objetos
+- Robusto
 
 ### Laravel (PHP)
 - Suporte a IoC
@@ -25,23 +26,27 @@ Deixa um código mais fácil de ser testado, mais organizado...
 - Complexidade média
 - Usado em aplicações web
 - Resolve dependências automaticamente
+- Produtivo
 
 ### ASP.NET Core (C#)
 - Suporte a IoC
 - Injeção de Dependência (DI) nativa
 - Arquitetura MVC
 - Dependência integrada ao framework
-
-## Tabela Comparativa
-----------------------------------------
-| ** Framework ** Caracteristicas ** Pros ** Contras
-|
-|
-|
-|
-|
-|
-|
-|
 - Complexidade média
 - Usado em APIs e aplicações web modernas
+- Seguro
+
+## Tabela Comparativa
+---------------------------------------------------------------------------------------------------
+|  Framework    |         Caracteristicas       |        Pros        |          Contras           |
+|---------------|-------------------------------|--------------------|----------------------------|
+|  Spring Boot  | IoC integrado, MVC, sistema   | Robusto, alto      | Difícil para pessoas       |
+|               | grande.                       | complexidade.      | novas, complexo.           |
+|---------------|-------------------------------|--------------------|----------------------------|
+|  Laravel      | IoC container, MVC, foco em   | Fácil em entender, | Não recomendado para       |
+|               | aplicações web.               | produtivo          | programas grandes.         |
+|---------------|----------------------------------------------------|----------------------------|
+|  ASP.NET Core | DI nativos, MVC, usado APIs   | Performace alto,   | Exige conhecimento em      |
+|               | e aplicações web modernas.    | seguro.            | c#, dficíl para iniciantes.|
+---------------------------------------------------------------------------------------------------
