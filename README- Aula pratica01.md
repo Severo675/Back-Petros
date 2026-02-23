@@ -31,5 +31,17 @@ Deixa um código mais fácil de ser testado, mais organizado...
 - Injeção de Dependência (DI) nativa
 - Arquitetura MVC
 - Dependência integrada ao framework
+
+## Tabela Comparativa
+----------------------------------------
+| ** Framework ** Caracteristicas ** Pros ** Contras
+|
+|
+|
+|
+|
+|
+|
+|
 - Complexidade média
 - Usado em APIs e aplicações web modernas
