@@ -11,18 +11,18 @@ Deixa um código mais fácil de ser testado, mais organizado...
 ### Spring Boot (Java)
 - Suporte a IoC
 - Spring Container
-- Injeção de dependência automática
-- Arquitetura MVC
+- Dependência automática
+- MVC
 - Alta complexidade
-- Usado em sistemas corporativos
+- Usado em sistemas corporativo
 - Responsável pela criação e gerenciamento de objetos
 - Robusto
 
 ### Laravel (PHP)
 - Suporte a IoC
 - Service Container
-- Injeção de dependência automática
-- Arquitetura MVC
+- Dependência automática
+- MVC
 - Complexidade média
 - Usado em aplicações web
 - Resolve dependências automaticamente
@@ -30,8 +30,8 @@ Deixa um código mais fácil de ser testado, mais organizado...
 
 ### ASP.NET Core (C#)
 - Suporte a IoC
-- Injeção de Dependência (DI) nativa
-- Arquitetura MVC
+- Dependência (DI) nativa
+- MVC
 - Dependência integrada ao framework
 - Complexidade média
 - Usado em APIs e aplicações web modernas
