@@ -9,7 +9,7 @@ Deixa um código mais fácil de ser testado, mais organizado...
 ## Comparação de 3 frameworks (linguagens diferentes)
 
 ### Spring Boot (Java)
-- Suporte a IoC
+- IoC
 - Spring Container
 - Dependência automática
 - MVC
@@ -19,7 +19,7 @@ Deixa um código mais fácil de ser testado, mais organizado...
 - Robusto
 
 ### Laravel (PHP)
-- Suporte a IoC
+- IoC
 - Service Container
 - Dependência automática
 - MVC
@@ -29,7 +29,7 @@ Deixa um código mais fácil de ser testado, mais organizado...
 - Produtivo
 
 ### ASP.NET Core (C#)
-- Suporte a IoC
+- IoC
 - Dependência (DI) nativa
 - MVC
 - Dependência integrada ao framework
