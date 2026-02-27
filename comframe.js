@@ -9,7 +9,7 @@ app.get('/users', (req, res) => {
 
 app.post('/users', (req, res) => {
   const newUser = req.body;
-  // Lógica de criação...
+  // Lógica de criação.
   res.status(201).json(newUser);
 });
 
