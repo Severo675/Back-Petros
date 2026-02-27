@@ -1,5 +1,5 @@
 # Diferenças entre código com e sem framework
-## Minha opnião
+## (Minha opnião)
 
 ### Sem framework
 Sem o framework pra mim fica um código muito bagunçado e deixando assim difícil de entender por ter muita coisa 
